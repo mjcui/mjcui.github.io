@@ -75,9 +75,9 @@ include: ['_pages']
 
 # Gems
 plugins:
-    - jekyll-paginate
-    - jekyll/scholar
-    - jemoji
+  - jekyll-paginate
+  - jekyll/scholar
+  - jemoji
 
 # Jekyll-Scholar
 scholar:
