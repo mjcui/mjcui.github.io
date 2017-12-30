@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>eahn1 . cs . cmu . edu</p>
+    <p>eahn1 @ cs . cmu . edu</p>
 
 news: true
 social: true
