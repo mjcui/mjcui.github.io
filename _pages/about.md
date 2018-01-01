@@ -18,6 +18,6 @@ I am a first-year Masters student at the [Language Technologies Institute](https
 
 Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-mixing, and linguistics (specifically phonology and morphology).
 
-Recently I was at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science. My [Honors Thesis](https://github.com/wellesleynlp/emilythesis) involved using machine learning to classify foreign accents of non-native English speech.
+Recently, I was at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science. My [Honors Thesis](https://github.com/wellesleynlp/emilythesis) involved using machine learning to classify foreign accents of non-native English speech.
 
-<!-- ## *THIS SITE IS UNDER CONSTRUCTION. MISCELLANEOUS/IRRELEVANT CONTENT COMES FROM [`al-folio`](https://github.com/alshedivat/al-folio) THEME PAGES* -->
+When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time I did taekwondo and rowing for sport.
