@@ -23,9 +23,9 @@ Recently, I was at SRI International, working in their Speech Technology and Res
 When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time I did taekwondo and rowing for sport.
 
 <div class="img_row">
-    <img class="col one first" src="{{ site.baseurl }}/assets/img/cmu_lti.jpg">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/sf_charlie2.jpg">
-    <img class="col one last" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
+    <img class="col one first" src="{{ site.baseurl }}/assets/img/md_cat.jpg">
+    <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
+    <img class="col one last" src="{{ site.baseurl }}/assets/img/sf_charlie2.jpg">
 </div>
 
 <!-- <img src="assets/img/cmu_lti.jpg" height="170">
