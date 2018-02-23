@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I am a first-year Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My current research involves investigating entrainment in code-mixed dialogues, and I am being co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). 
+I am a first-year Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My current research involves investigating entrainment in code-mixed dialogues, and I am being co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). My work is mainly supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-mixing, and linguistics (specifically phonology and morphology).
 
