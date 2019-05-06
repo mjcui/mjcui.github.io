@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Emily</strong> Ahn
+title: <strong>Mingjian</strong> Cui
 description: <a href="https://www.lti.cs.cmu.edu/">LTI @ CMU</a>. Graduate student. Language enthusiast.
 
 profile:
@@ -22,11 +22,11 @@ Recently, I was at SRI International, working in their Speech Technology and Res
 
 When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport.
 
-<div class="img_row">
+<!--<div class="img_row">
     <img class="col one first" src="{{ site.baseurl }}/assets/img/korea_coffee.jpg">
     <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
     <img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
-</div>
+</div> -->
 
 <!-- <img src="assets/img/cmu_lti.jpg" height="170">
 <img src="assets/img/sf_charlie2.jpg" height="170">
