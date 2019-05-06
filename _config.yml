@@ -1,28 +1,28 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Emily Ahn
-email: eahn1@cs.cmu.edu
+name: Mingjian Cui
+email: mingjian.cui@ieee.org
 description: > # this means to ignore newlines until "url:"
   Language enthusiast.
-footer_text: 
+footer_text:
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://mjcui.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 23 Feb 2018 # leave blank if you don't want to display last updated
+last_updated: 5 May 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: emilyahn # put your github username
+github_username: mjcui # put your github username
 twitter_username: # put your twitter username
 linkedin_username: emily-ahn-50205472 # put your linkedin username
-scholar_authorid: 7irdsRUAAAAJ # put your google scholar author id
+scholar_authorid: LONxHZ0AAAAJ # put your google scholar author id
 contact_note: >
-  
-  
+
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
