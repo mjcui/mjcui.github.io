@@ -84,7 +84,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Ahn
+  last_name: Cui
 
   style: apa
   locale: en
