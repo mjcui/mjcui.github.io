@@ -13,7 +13,11 @@
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
-    <span class="title">{{entry.title}}</span>
+  {% if entry.url %}    
+	<span class="title"><a href="{{ entry.url }}" target="_blank">{{entry.title}}</a></span>
+  {% else %}
+	<span class="title">{{entry.title}}</span>  
+  {% endif %}	
     <span class="author">
       {% for author in entry.author_array %}
         {% unless forloop.last %}
@@ -43,17 +47,33 @@
 
     <span class="periodical">
     {% if entry.type == "article" %}
-      <em>{{entry.journal}}</em>
+      <em>{{entry.journal}}</em>,
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
+    {% if entry.volume %}
+      vol. {{entry.volume}},
+    {% endif %}
+    {% if entry.number %}
+      no. {{entry.number}},
+    {% endif %}
+    {% if entry.pages %}
+      pp. {{entry.pages}},
+    {% endif %}
+    <!--{% if entry.month %}
+      {{entry.month}}
+    {% endif %}-->
     {% if entry.year %}
-      {{entry.year}}
+      {{entry.year}}.
     {% endif %}
     </span>
   {% endif %}
 
   <span class="links">
+<!--
+  {% if entry.url %}
+    [<a href="{{ entry.url }}" target="_blank">LINK</a>]
+  {% endif %}  -->
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
@@ -61,7 +81,7 @@
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.html %}
-    [<a href="{{ entry.html }}" target="_blank">HTML</a>]
+	[<a href="{{ entry.html }}" target="_blank">HTML</a>]
   {% endif %}
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
