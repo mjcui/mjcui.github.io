@@ -11,7 +11,7 @@ footer_text:
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 5 May 2019 # leave blank if you don't want to display last updated
+last_updated: 9 May 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -22,6 +22,7 @@ linkedin_username: mingjian-cui-19637552 # put your linkedin username
 scholar_authorid: LONxHZ0AAAAJ # put your google scholar author id
 researchgate_username: Mingjian_Cui # put your researchgate username
 publons_username: 1218293 # put your publons username
+ORCID_username: 0000-0002-3047-5141 # put your ORCID username
 contact_note: >
 
 
