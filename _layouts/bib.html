@@ -13,19 +13,19 @@
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
-  {% if entry.url %}    
+  {% if entry.url %}
 	<span class="title"><a href="{{ entry.url }}" target="_blank">{{entry.title}}</a></span>
   {% else %}
-	<span class="title">{{entry.title}}</span>  
-  {% endif %}	
+	<span class="title">{{entry.title}}</span>
+  {% endif %}
     <span class="author">
       {% for author in entry.author_array %}
         {% unless forloop.last %}
           {% if author.last == site.scholar.last_name %}
             <em>{{author.first}} {{author.last}}</em>,
           {% else %}
-            {% if site.data.coauthors[author.last] %}
-              <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}}{{author.last}}</a>,
+            {% if site.data.coauthors[author.first] %}
+              <a href="{{site.data.coauthors[author.first].url}}" target="_blank">{{author.first}} {{author.last}}</a>,
             {% else %}
               {{author.first}} {{author.last}},
             {% endif %}
@@ -35,10 +35,10 @@
           {% if author.last == site.scholar.last_name %}
             <em>{{author.first}}{{author.last}}</em>
           {% else %}
-            {% if site.data.coauthors[author.last] %}
-              <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}}{{author.last}}</a>
+            {% if site.data.coauthors[author.first] %}
+              <a href="{{site.data.coauthors[author.first].url}}" target="_blank">{{author.first}} {{author.last}}</a>
             {% else %}
-              {{author.first}} {{author.last}}, 
+              {{author.first}} {{author.last}}
             {% endif %}
           {% endif %}
         {% endunless %}
