@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Mingjian</strong> Cui
+title: <strong>Mingjian</strong> Cui (崔明建)
 description: <a href="https://www.smu.edu/Lyle/Departments/EE">Department of Electrical and Computer Engineering</a>, <a href="https://www.smu.edu/">Southern Methodist University (SMU)</a>.
 
 profile:
