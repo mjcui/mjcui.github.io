@@ -21,7 +21,7 @@
     <span class="author">
       {% for author in entry.author_array %}
         {% unless forloop.last %}
-          {% if author.last == site.scholar.last_name %}
+          {% if author.last == site.scholar.last_name%}
             <em>{{author.first}} {{author.last}}</em>,
           {% else %}
             {% if site.data.coauthors[author.first] %}
@@ -33,7 +33,7 @@
         {% else %}
           and
           {% if author.last == site.scholar.last_name %}
-            <em>{{author.first}}{{author.last}}</em>
+            <em>{{author.first}} {{author.last}}</em>
           {% else %}
             {% if site.data.coauthors[author.first] %}
               <a href="{{site.data.coauthors[author.first].url}}" target="_blank">{{author.first}} {{author.last}}</a>
