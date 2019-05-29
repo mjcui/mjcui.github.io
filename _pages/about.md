@@ -24,8 +24,14 @@ Recently, I was at SRI International, working in their Speech Technology and Res
 
 When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport. -->
 
+
+<strong>Google Scholar as of May 2019.
+
+<img src="assets/img/citations.jpg" height="300">
+
+
 <!--<div class="img_row">
-    <img class="col one first" src="{{ site.baseurl }}/assets/img/korea_coffee.jpg">
+    <img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
     <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
     <img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
 </div> -->
