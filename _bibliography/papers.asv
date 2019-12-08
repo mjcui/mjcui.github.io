@@ -1,12 +1,10 @@
+%
 % No. 18 of Journal Papers
 @article{cui2020flexible,
-	pdf={papers/FINAL VERSION-Flexible Machine Learning.pdf},
 	title={Flexible Machine Learning Based Cyberattack Detection Using Spatiotemporal Patterns for Distribution Systems},
-	author={Cui, Mingjian* and Wang, Jianhui and Chen, Bo},
-    journal={IEEE Transactions on Smart Grid},
-    year={2020},
-	note		=	{in press},
-	publisher={IEEE}
+
+
+
 }
 
 % No. 17 of Journal Papers
