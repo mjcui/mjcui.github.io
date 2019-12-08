@@ -31,6 +31,9 @@ When I'm not working, I like to dance, take photos of handmade [felted animals](
 <img src="assets/img/citations.jpg" height="260">
 </div>
 
+<!--<div style="text-align: center">
+<iframe height=500 width=500 src="assets/img/download.gif">
+</div> -->
 
 <!--<div class="img_row">
     <img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
