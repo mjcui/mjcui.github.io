@@ -5,10 +5,10 @@ title: <strong>Mingjian</strong> Cui (崔明建)
 description: <a href="https://www.smu.edu/Lyle/Departments/EE">Department of Electrical and Computer Engineering</a>, <a href="https://www.smu.edu/">Southern Methodist University (SMU)</a>.
 
 profile:
-align: right
-image: prof_pic.jpg
-address: >
-<p>6251 Airline Rd. #348</p> <p>Dallas, TX 75275, USA</p> <!--<p>Phone: (469) 805-1156</p>-->
+  align: right
+  image: prof_pic.jpg
+  address: >
+    <p>6251 Airline Rd. #348</p> <p>Dallas, TX 75275, USA</p> <!--<p>Phone: (469) 805-1156</p>-->
 
 news: true
 social: true
@@ -31,9 +31,9 @@ When I'm not working, I like to dance, take photos of handmade [felted animals](
 
 
 <!--<div class="img_row">
-<img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
-<img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
-<img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
+    <img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
+    <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
+    <img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
 </div> -->
 
 <!-- <img src="assets/img/cmu_lti.jpg" height="170">
