@@ -5,10 +5,10 @@ title: <strong>Mingjian</strong> Cui (崔明建)
 description: <a href="https://www.smu.edu/Lyle/Departments/EE">Department of Electrical and Computer Engineering</a>, <a href="https://www.smu.edu/">Southern Methodist University (SMU)</a>.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>6251 Airline Rd. #348</p> <p>Dallas, TX 75275, USA</p> <!--<p>Phone: (469) 805-1156</p>-->
+align: right
+image: prof_pic.jpg
+address: >
+<p>6251 Airline Rd. #348</p> <p>Dallas, TX 75275, USA</p> <!--<p>Phone: (469) 805-1156</p>-->
 
 news: true
 social: true
@@ -25,15 +25,15 @@ Recently, I was at SRI International, working in their Speech Technology and Res
 When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport. -->
 
 
-<strong>Google Scholar as of May 2019.
+<strong>Google Scholar as of December 2019.
 
 <img src="assets/img/citations.jpg" height="300">
 
 
 <!--<div class="img_row">
-    <img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
-    <img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
+<img class="col one first" src="{{ site.baseurl }}/assets/img/citations.jpg">
+<img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
 </div> -->
 
 <!-- <img src="assets/img/cmu_lti.jpg" height="170">
