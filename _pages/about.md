@@ -31,6 +31,10 @@ When I'm not working, I like to dance, take photos of handmade [felted animals](
 <img src="assets/img/citations.jpg" height="260">
 </div>
 
+<!--<figure class="animated_gif_frame">
+	<img src="assets/img/download.gif" height="800" width="500"  />
+</figure> this code can upload .gif figures. --> 
+
 <!--<div style="text-align: center">
 <iframe height=500 width=500 src="assets/img/download.gif">
 </div> -->
