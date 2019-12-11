@@ -63,23 +63,35 @@
 
 % No. 14 of Journal Papers
 @article{cui2019deep,
+	doi = {10.1109/TSG.2019.2896493},
+	pdf = {papers/FINAL_VERSION-Deep Learning Based Time-Varying.pdf},
 	url = {https://doi.org/10.1109/TSG.2019.2896493},
-	title={Deep Learning Based Time-Varying Parameter Identification for System-Wide Load Modeling},
-	author={Cui, Mingjian* and Khodayar, Mahdi and Chen, Chen and Wang, Xinan and Zhang, Ying and Khodayar, Mohammad E.},
-	journal={IEEE Transactions on Smart Grid},
-	year={2019},
-	note		=	{in press},
+	title = {Deep Learning Based Time-Varying Parameter Identification for System-Wide Load Modeling},
+	author = {Cui, Mingjian* and Khodayar, Mahdi and Chen, Chen and Wang, Xinan and Zhang, Ying and Khodayar, Mohammad E.},
+	abstract = {The integration of uncertain power resources is causing more challenges for traditional load modeling research. Parameter identification of load modeling is impacted by a variety of load components with time-varying characteristics. This paper develops a deep learning-based time-varying parameter identification model for composite load modeling (CLM) with ZIP load and induction motor. A multi-modal long short-term memory (M-LSTM) deep learning method is used to estimate all the time-varying parameters of CLM considering system-wide measurements. It contains a multi-modal structure that makes use of different modalities of the input data to accurately estimate time-varying load parameters. An LSTM network with a flexible number of temporal states is defined to capture powerful temporal patterns from the load parameters and measurements time series. The extracted features are further fed to a shared representation layer to capture the joint representation of input time series data. This temporal representation is used in a linear regression model to estimate time-varying load parameters at the current time. Numerical simulations on the 23- and 68-bus systems verify the effectiveness and robustness of the proposed M-LSTM method. Also, the optimal lag values of parameters and measurements as input variables are solved.},
+	journal = {IEEE Transactions on Smart Grid},
+	volume = {10},
+	number = {6},
+	month = November,
+	pages = {6102--6114},
+	year = {2019},
 	publisher={IEEE}
 }
 
 % No. 13 of Journal Papers
 @article{cui2019machine,
+	doi = {10.1109/TSG.2018.2890809},
+	pdf = {papers/FINAL_VERSION-Machine Learning Based Anomaly Detection.pdf},
 	url = {https://doi.org/10.1109/TSG.2018.2890809},
-	title={Machine Learning Based Anomaly Detection for Load Forecasting Under Cyberattacks},
-	author={Cui, Mingjian* and Wang, Jianhui and Yue, Meng},
-	journal={IEEE Transactions on Smart Grid},
-	year={2019},
-	note		=	{in press},
+	title = {Machine Learning Based Anomaly Detection for Load Forecasting Under Cyberattacks},
+	author = {Cui, Mingjian* and Wang, Jianhui and Yue, Meng},
+	abstract = {Accurate load forecasting can create both economic and reliability benefits for power system operators. However, the cyberattack on load forecasting may mislead operators to make unsuitable operational decisions for the electricity delivery. To effectively and accurately detect these cyberattacks, this paper develops a machine learning-based anomaly detection (MLAD) methodology. First, load forecasts provided by neural networks are used to reconstruct the benchmark and scaling data by using the k-means clustering. Second, the cyberattack template is estimated by the naive Bayes classification based on the cumulative distribution function and statistical features of the scaling data. Finally, the dynamic programming is utilized to calculate both the occurrence and parameter of one cyberattack on load forecasting data. A widely used symbolic aggregation approximation method is compared with the developed MLAD method. Numerical simulations on the publicly load data show that the MLAD method can effectively detect cyberattacks for load forecasting data with relatively high accuracy. Also, the robustness of MLAD is verified by thousands of attack scenarios based on Monte Carlo simulation.},
+	journal = {IEEE Transactions on Smart Grid},
+	volume = {10},
+	number = {5},
+	pages = {5724--5734},
+	month = September,
+	year = {2019},
 	publisher={IEEE}
 }
 
@@ -94,7 +106,7 @@
 	journal		=	{IEEE Transactions on Power Systems},
 	volume		=	{34},
 	number		=	{1},
-	pages		=	{454-466},
+	pages		=	{454--466},
 	month		=	January,
 	year		=	{2019},
 	cite={title		=	{A Novel Event Detection Method Using PMU Data With High Precision},
@@ -110,12 +122,17 @@
 
 % No. 11 of Journal Papers: copula
 @article{cui2019copula,
-	url = {https://doi.org/10.1109%2Ftsg.2018.2841932},
+	doi = {10.1109/TSG.2018.2841932},
+	url = {https://doi.org/10.1109/TSG.2018.2841932},
 	title={A Copula-Based Conditional Probabilistic Forecast Model for Wind Power Ramps},
 	author={Cui, Mingjian and Krishnan, Venkat and Hodge, Bri-Mathias and Zhang, Jie},
+	abstract = {Efficient management of wind ramping characteristics can significantly reduce wind integration costs for balancing authorities. By considering the stochastic dependence of wind power ramp (WPR) features, this paper develops a conditional probabilistic WPR forecast (cp-WPRF) model based on copula theory. The WPRs dataset is constructed by extracting ramps from a large dataset of historical wind power. Each WPR feature (e.g., rate, magnitude, duration, and start-time) is separately forecasted by considering the coupling effects among different ramp features. To accurately model the marginal distributions with a copula, a Gaussian mixture model is adopted to characterize the WPR uncertainty and features. The Canonical maximum likelihood method is used to estimate parameters of the multivariable copula. The optimal copula model is chosen based on the Bayesian information criterion from each copula family. Finally, the best conditions based cp-WPRF model is determined by predictive interval based evaluation metrics. Numerical simulations on publicly available wind power data show that the developed copula-based cp-WPRF model can predict WPRs with a high level of reliability and sharpness.},
 	journal={IEEE Transactions on Smart Grid},
+	volume = {10},
+	number = {4},
+	pages = {3870-3882},
+	month = July,
 	year={2019},
-	note		=	{in press},
 	publisher={IEEE}
 }
 
