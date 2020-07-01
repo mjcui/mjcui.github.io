@@ -12,25 +12,25 @@
 }
 
 .news {
-    border-top: 1px solid $grey-color-light;
-    margin-top: 30px;
-    padding-top: 20px;
+    border-top: 5px solid $grey-color-light;
+    margin-top: 20px;
+    padding-top: 1px;
 
     h2 {
         font-weight: bold;
         margin-top: 0;
-        margin-bottom: 10px;
+        margin-bottom: 1px;
     }
     table {
         border-collapse: collapse;
         width: 100%;
 
-        .date { width: 19%; }
-        .announcement { width: 81%; }
+        .date { width: 20%; }
+        .announcement { width: 80%; }
 
-        tr { text-align: left; }
+        tr { text-align: justify; }
         td {
-            padding: 6px 0;
+            padding: 1px 0;
             vertical-align: top;
             border: none;
         }
@@ -38,7 +38,7 @@
 }
 
 .social {
-    border-top: 1px solid $grey-color-light;
-    margin-top: 50px;
-    padding-top: 20px;
+    border-top: 5px solid $grey-color-light;
+    margin-top: 5px;
+    padding-top: 0px;
 }
