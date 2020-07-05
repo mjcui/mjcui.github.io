@@ -33,7 +33,6 @@ When I'm not working, I like to dance, take photos of handmade [felted animals](
 
 
 
-
 <!--<figure class="animated_gif_frame">
 	<img src="assets/img/download.gif" height="800" width="500"  />
 </figure>  this code can upload gif figures.-->
