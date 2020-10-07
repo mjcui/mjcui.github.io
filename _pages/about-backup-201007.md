@@ -28,7 +28,7 @@ When I'm not working, I like to dance, take photos of handmade [felted animals](
 <strong><a href="https://scholar.google.com/citations?user=LONxHZ0AAAAJ&hl=en" target="\_blank"><strong>Google Scholar</strong></a> as of June 2020.</strong>
 
 <div style="text-align: center">
-<img src="assets/img/citations.jpg" height="260">
+<img src="assets/img/citations.jpg" height="200">
 </div>
 
 
